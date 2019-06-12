@@ -4,7 +4,7 @@ This is George from school 21.
 
 ## Getting Started
 
-George is trying to test your programs as Moulinette.\n
+George is trying to test your programs as Moulinette.
 You can help George get wiser by sending him tests for future tasks
 (https://github.com/kirillkuzin/42_Subjects).
 
