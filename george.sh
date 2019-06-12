@@ -14,7 +14,7 @@ do
         sh ../days/$2/$ex/compile.sh $ex
     else
         echo "\ngcc -Wall -Wextra -Werror $ex/*.c"
-        gcc -Wall -Wextra -Werror $ex/*.c
+		gcc -Wall -Wextra -Werror $ex/*.c ../files/*.c
         echo "./a.out > user_output"
         ./a.out > user_output
         echo >> user_output
